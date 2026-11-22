@@ -1,5 +1,7 @@
 # Linux Learning Projects: Beginner to Advanced
 
+> **About this repository:** this is a copy of a widely shared "Linux Learning Projects: Beginner to Advanced" checklist (the same text appears in several public repositories), kept as my own practice plan for Linux administration. The task lists below are not my original writing.
+
 Welcome to the **Linux Learning Projects**. The idea behind these projects is to give you an idea and mastery of Linux systems through immersive and hands-on tasks. It centers on Linux system administration concepts like scripting, security, and automation.
 
 ---
